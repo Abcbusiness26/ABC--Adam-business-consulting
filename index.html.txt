@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABC Adam Business Consulting</title>
+<style>
+body{font-family:Arial;background:#f5f1e8;margin:0;color:#222}
+header{background:#6b4f3a;color:white;padding:40px;text-align:center}
+section{padding:40px;max-width:900px;margin:auto}
+h2{color:#6b4f3a}
+button{background:#6b4f3a;color:white;padding:12px 20px;border:none;font-size:16px}
+footer{background:#222;color:white;text-align:center;padding:20px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>ABC Adam Business Consulting</h1>
+<p>Reliable Bookkeeping Services for Small Businesses</p>
+<p>Call: 571-275-4269</p>
+<button>Book a Consultation</button>
+</header>
+
+<section>
+<h2>Our Services</h2>
+<ul>
+<li>Bank Reconciliation</li>
+<li>Account Categorization</li>
+<li>Bookkeeping Cleanup</li>
+<li>Financial Statements Preparation</li>
+</ul>
+</section>
+
+<section>
+<h2>About Us</h2>
+<p>We help small business owners organize their finances and maintain accurate bookkeeping records so they can focus on growing their businesses.</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Phone: 571-275-4269</p>
+<p>Email: Simo.attar@gmail.com</p>
+</section>
+
+<footer>
+<p>ABC Adam Business Consulting</p>
+</footer>
+
+</body>
+</html>
